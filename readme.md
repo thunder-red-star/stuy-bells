@@ -1,6 +1,8 @@
 # stuybellz
 
-a small crappy project lmao
+a small crappy project that is really bad and everyone is better at coding than me :( 
+
+it's a bell schedule website.
 
 ## use
 
