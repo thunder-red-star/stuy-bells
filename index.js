@@ -8,6 +8,7 @@ const stuySchedule = require('./data/stuy.json')
 
 let sched = "Regular"
 
+process.env.TZ = "America/New_York"
 // TODO: extract below
 
 // ----------------------------------------
