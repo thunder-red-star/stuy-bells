@@ -1,0 +1,20 @@
+{
+  "name": "Stuy-Bells",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-parser": "0.0.7",
+    "express": "^4.17.1",
+    "ms": "^3.0.0-canary.1",
+    "node-date-parser": "^1.0.12",
+    "particles.js": "^2.0.0",
+    "socket.io": "^4.2.0"
+  }
+}

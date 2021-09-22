@@ -1,0 +1,110 @@
+{
+    "Regular": {
+        "Before School": {
+            "start": "00:00:00",
+            "end": "07:59:59"
+        },
+        "Period 1": {
+            "start": "08:00:00",
+            "end": "08:41:00"
+        },
+        "Between Periods 1 and 2": {
+            "start": "08:41:01",
+            "end": "08:44:59"
+        },
+        "Period 2": {
+            "start": "08:45:00",
+            "end": "09:26:00"
+        },
+        "Between Periods 2 and 3": {
+            "start": "09:26:01",
+            "end": "09:30:59"
+        },
+        "Period 3": {
+            "start": "09:31:00",
+            "end": "10:15:00"
+        },
+        "Between Periods 3 and 4": {
+            "start": "10:15:01",
+            "end": "10:19:59"
+        },
+        "Period 4": {
+            "start": "10:20:00",
+            "end": "11:01:00"
+        },
+        "Between Periods 4 and 5": {
+            "start": "11:01:01",
+            "end": "11:05:59"
+        },
+        "Period 5": {
+            "start": "11:06:00",
+            "end": "11:47:00"
+        },
+        "Between Periods 5 and 6": {
+            "start": "11:47:01",
+            "end": "11:51:59"
+        },
+        "Period 6": {
+            "start": "11:52:00",
+            "end": "12:33:00"
+        },
+        "Between Periods 6 and 7": {
+            "start": "12:33:01",
+            "end": "12:37:59"
+        },
+        "Period 7": {
+            "start": "12:38:00",
+            "end": "13:19:00"
+        },
+        "Between Periods 7 and 8": {
+            "start": "13:19:01",
+            "end": "13:23:59"
+        },
+        "Period 8": {
+            "start": "13:24:00",
+            "end": "14:05:00"
+        },
+        "Between Periods 8 and 9": {
+            "start": "14:05:01",
+            "end": "14:08:59"
+        },
+        "Period 9": {
+            "start": "14:09:00",
+            "end": "14:50:00"
+        },
+        "Between Periods 9 and 10": {
+            "start": "14:50:01",
+            "end": "14:53:59"
+        },
+        "Period 10": {
+            "start": "14:54:00",
+            "end": "15:35:00"
+        },
+        "After School": {
+            "start": "15:35:01",
+            "end": "23:59:59"
+        }
+    },
+    "Test": {
+        "Test Period 1": {
+            "start": "00:00:00",
+            "end": "01:03:00"
+        },
+        "Between Test Period 1 and Test Period 2": {
+            "start": "01:03:01",
+            "end": "01:09:59"
+        },
+        "Test Period 2": {
+            "start": "01:10:00",
+            "end": "01:13:00"
+        },
+        "Between Test Period 2 and Test Period 3": {
+            "start": "01:13:01",
+            "end": "01:15:59"
+        },
+        "Test Period 3": {
+            "start": "01:16:00",
+            "end": "23:59:59"
+        }
+    }
+}

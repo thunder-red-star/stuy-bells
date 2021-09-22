@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
+
+html {
+    font-family: "DM Sans"
+}
+
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+
+body {
+    background-color: #FFFFFF;
+  width: 100%;
+  position: absolute;
+    display: flex;
+    align-items: center;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#game {
+  background-color: lightblue;
+  border: 2px solid black;
+  margin: auto;
+  margin-left: 50px;
+}
+
+#playerCount {
+  width: 100%;
+  text-align: center;
+}
+
+#scores {
+  width: 100%;
+  text-align: center;
+}
+
+#header {
+  font-size: 500%;
+  font-weight: bold;
+  padding: 10px
+}
+
+#time {
+    font-size: xx-large;
+}
+
+#period {
+    font-size: xx-large;
+}
+
+#before {
+  font-size: 500%;
+  color: greenyellow;
+}
+
+#after {
+  font-size: 500%;
+  color: red;
+}
+
+#container {
+    width: 90%;
+    height: 90%;
+    margin: 0 auto;
+    background-color: #f4f4f3;
+        padding-bottom: 5%;
+
+}
+
+.chat {
+    width: 50%;
+}
+
+.theader {
+    font-size: x-large;
+}
+
+table {
+  border-collapse: collapse;
+  width: 75%;
+}
+
+td, th {
+    border: 2px black solid;
+  text-align: center;
+  padding: 8px;
+}
+
+progress::-webkit-progress-value {background-color: blue !important;}
+
+
+#pb {
+    display: inline-block;
+    width: 15%;
+}
+
+#period {
+    font-weight: bold;
+    color: blue;
+}
+
+#schedule {
+    font-size: 250%
+}

@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Stuy Bells</title>
+	<link rel="stylesheet" href='./styles.css'>
+    <link rel="stylesheet" href='./pgmeters.css'>
+</head>
+
+<body>
+<script async src="https://arc.io/widget.min.js#bF3uKsgH"></script>
+	<script src="/socket.io/socket.io.js">
+
+	</script>
+	<script src="https://code.jquery.com/jquery-1.11.1.js">
+
+	</script>
+
+	<script src="./client.js">
+
+	</script>
+	<div id="container">
+		<center>
+			<div id='header'>
+				<center>Stuy Bell Schedule</center>
+			</div>
+            <center id="schedule">Loading</center>
+                        <br>
+			<table>
+				<tr>
+					<th class="theader">Minutes since period start</th>
+					<th class="theader">Minutes to period end</th>
+				</tr>
+				<tr>
+					<td id="before">Loading...</td>
+					<td id="after">Loading...</td>
+				</tr>
+			</table>
+            <br>
+            <table>
+				<tr><td id="time">Loading...
+				</td></tr>
+                <tr><td id="period">Loading...
+				</td></tr>
+			</table>
+            <br>
+    </center>
+        <div class="meter" id="pbcont" style="width: 80%;margin: 0 auto;">
+            <span id="pb"></span>
+        </div>
+    <center><h1><span id="viewers">Loading...</span> viewers!</h1></center> 
+    <p style="padding: 25px">Note: If the server time stops responding, please refresh the page - my time server needs to restart every so often (to increase reliability)<br>All work and code is my own. Idea stolen from <a href="http://micromind.com" style="color: gray">Peter Brooks</a>.<br>© <a href="https://thunderredstar.me" style="color: gray">ThunderRedStar 2021. All rights reserved.</p>
+    </div>
+     
+  </body>
+ 
+</html>
