@@ -2,7 +2,7 @@
 
 a small crappy project that is really bad and everyone is better at coding than me :( 
 
-it's a bell schedule website.
+it's a (bell schedule website)[https://is-wholeso.me]
 
 ## use
 
