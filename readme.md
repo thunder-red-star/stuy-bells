@@ -8,4 +8,4 @@ a small crappy project lmao
 
 `node .`
 
-ez
+you might need to set the environment variable for time zone. it's already set to `America/New_York` for your convenience.
